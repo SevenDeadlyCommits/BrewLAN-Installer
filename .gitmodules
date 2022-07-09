@@ -1,0 +1,3 @@
+[submodule "BrewLAN"]
+	path = BrewLAN
+	url = https://github.com/The-Balthazar/BrewLAN
