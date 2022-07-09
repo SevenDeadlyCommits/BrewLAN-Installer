@@ -12927,6 +12927,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_A584329095C2496F86350263129AFD70"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_A58E1F427D16464099F02CB134E61E73"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -62968,6 +62974,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A584329095C2496F86350263129AFD70"
+            {
+            "SourcePath" = "8:brewlan-installer-readme.rtf"
+            "TargetName" = "8:brewlan-installer-readme.rtf"
+            "Tag" = "8:"
+            "Folder" = "8:_F0D5FFC31DE3492585C48888A37A42F2"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A58E1F427D16464099F02CB134E61E73"
             {
             "SourcePath" = "8:..\\..\\BrewLAN\\mods\\BrewLAN\\units\\SEB4102\\SEB4102_lod1.scm"
@@ -97834,7 +97860,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:BrewLAN"
         "ProductCode" = "8:{5E4C1CCD-9E8B-4694-A9B8-3790217BC929}"
-        "PackageCode" = "8:{716D126A-6630-4047-B669-7F8777672BDF}"
+        "PackageCode" = "8:{6ECB395B-0C84-4883-9D5D-AA73D58EEDB2}"
         "UpgradeCode" = "8:{BB177ADF-96F9-4ABB-A12C-4AAE90D09650}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
@@ -98720,7 +98746,7 @@
                 {
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_312F0924538447EABCFDE7349B7734BA"
                     {
-                    "Sequence" = "3:100"
+                    "Sequence" = "3:200"
                     "DisplayName" = "8:Finished"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
