@@ -97834,7 +97834,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:BrewLAN"
         "ProductCode" = "8:{5E4C1CCD-9E8B-4694-A9B8-3790217BC929}"
-        "PackageCode" = "8:{B2EEB40F-A4C7-463F-A8B5-19CFC29E9A44}"
+        "PackageCode" = "8:{716D126A-6630-4047-B669-7F8777672BDF}"
         "UpgradeCode" = "8:{BB177ADF-96F9-4ABB-A12C-4AAE90D09650}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
@@ -98495,7 +98495,7 @@
                             "ContextData" = "8:"
                             "Attributes" = "3:0"
                             "Setting" = "3:2"
-                            "Value" = "8:The installer will guide you through the steps required to install [ProductName] on your computer.\\n All credit for the mod itself goes to the original creator(s)."
+                            "Value" = "8:The installer will guide you through the steps required to install [ProductName] on your computer. All credit for the mod itself goes to the original creator(s)."
                             "DefaultValue" = "8:#1203"
                             "UsePlugInResources" = "11:TRUE"
                             }
