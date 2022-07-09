@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BrewLAN Installer", "BrewLAN Installer\BrewLAN Installer.vdproj", "{386D27C6-B84D-4AD6-B56E-72B72417C902}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{386D27C6-B84D-4AD6-B56E-72B72417C902}.Debug|Default.ActiveCfg = Debug
+		{386D27C6-B84D-4AD6-B56E-72B72417C902}.Debug|Default.Build.0 = Debug
+		{386D27C6-B84D-4AD6-B56E-72B72417C902}.Release|Default.ActiveCfg = Release
+		{386D27C6-B84D-4AD6-B56E-72B72417C902}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20324E15-3575-41DF-A8E2-F330FE85AEB9}
+	EndGlobalSection
+EndGlobal
